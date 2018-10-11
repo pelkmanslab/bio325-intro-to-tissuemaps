@@ -1,5 +1,5 @@
 ---
-title: TissueMaps
+title: Introduction to TissueMaps & Image Analysis
 subtitle: BIO325: Systems dynamics in cell and developmental biology
 author: Riccardo Murri & Joel Lüthi
 ---
@@ -25,7 +25,7 @@ author: Riccardo Murri & Joel Lüthi
 	* 10:20 - 11:30	Image processing &
 	                cell segmentation in TissueMaps
 	* 12:30 - 13:15	Using machine learning & downloading data
-	* 13:15 - 13:45	Intro to Python
+	* 13:30 - 14:00	Intro to Python
 	* 14:00 - 14:45	Data processing
 	* 14:45 - 15:00	Discussing data processing
 	* 15:15 - 16:00	Plotting data
@@ -107,3 +107,19 @@ author: Riccardo Murri & Joel Lüthi
 	* Batch Size 15
 	* Resubmit from image_analysis
 ![](./images/Resubmission.png)
+
+## What Will We Do Today?
+
+	*  9:20 - 10:00	Upload data to TissueMaps
+	                  & start processing it
+	* 10:20 - 11:30	Image processing &
+	                cell segmentation in TissueMaps
+	* 12:30 - 13:15	Using machine learning & downloading data
+	* 13:30 - 14:00	Intro to Python
+	* 14:00 - 14:45	Data processing
+	* 14:45 - 15:00	Discussing data processing
+	* 15:15 - 16:00	Plotting data
+	* 16:00 - 16:30	Discussing plotting & wrap up
+
+## Training a Classifier to Separate Transfected from Non-Transfected Cells
+Using machine learning & downloading data
