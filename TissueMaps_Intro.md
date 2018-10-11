@@ -1,47 +1,47 @@
 ---
-title: TissueMaps
-subtitle: BIO325: Systems dynamics in cell and developmental biology
-author: Riccardo Murri & Joel Lüthi
+title: 'TissueMAPS'
+subtitle: 'BIO325: Systems dynamics in cell and developmental biology'
+author: 'Riccardo Murri & Joel Lüthi'
 ---
 
 ## Administration
-	* Divide into two groups for the course
-		* Group 1 goes to the Pelkmans Lab first
-		* Group 2 goes to the Brunner Lab first:
-			* Group 2 is divided into sub-groups Fly & Yeast
+    * Divide into two groups for the course
+        * Group 1 goes to the Pelkmans Lab first
+        * Group 2 goes to the Brunner Lab first:
+            * Group 2 is divided into sub-groups Fly & Yeast
 
 ## Learning Objectives
 
-	* At the end of the day, you will be able to:
-		1. Understand the use-case for TissueMaps
-		2. Use TissueMaps to process your image data
-		3. Process single cell measurements using python
-		4. Create plots of your data using python
+    * At the end of the day, you will be able to:
+        1. Understand the use-case for TissueMaps
+        2. Use TissueMaps to process your image data
+        3. Process single cell measurements using python
+        4. Create plots of your data using python
 
 ## What Will We Do Today?
 
-	*  9:20 - 10:00	Upload data to TissueMaps
-	                  & start processing it
-	* 10:20 - 11:30	Image processing &
-	                cell segmentation in TissueMaps
-	* 12:30 - 13:15	Using machine learning & downloading data
-	* 13:15 - 13:45	Intro to Python
-	* 14:00 - 14:45	Data processing
-	* 14:45 - 15:00	Discussing data processing
-	* 15:15 - 16:00	Plotting data
-	* 16:00 - 16:30	Discussing plotting & wrap up
+    *  9:20 - 10:00	Upload data to TissueMaps
+                      & start processing it
+    * 10:20 - 11:30	Image processing &
+                    cell segmentation in TissueMaps
+    * 12:30 - 13:15	Using machine learning & downloading data
+    * 13:15 - 13:45	Intro to Python
+    * 14:00 - 14:45	Data processing
+    * 14:45 - 15:00	Discussing data processing
+    * 15:15 - 16:00	Plotting data
+    * 16:00 - 16:30	Discussing plotting & wrap up
 
 ## Motivation for Doing Image Analysis
 ![de Groot et al., 2018](./images/CRISPR_Paper.png)
 
 ## What is TissueMaps
-	* Cloud platform for image viewing & analysis
-	* Scalable & interactive
-	* Accessible by web browser
+    * Cloud platform for image viewing & analysis
+    * Scalable & interactive
+    * Accessible by web browser
 
 ## Your Jupyter Notebook & TissueMaps Server
-	* Get one sheet with instructions &
-	  passwords per 2 people
+    * Get one sheet with instructions &
+      passwords per 2 people
 
 ## Creating a New Experiment in TissueMaps
 ![](./images/TissueMaps_NewExperiment.png)
@@ -104,6 +104,6 @@ author: Riccardo Murri & Joel Lüthi
 ![](./images/GoodPipeline3.png)
 
 ## Resubmission
-	* Batch Size 15
-	* Resubmit from image_analysis
+    * Batch Size 15
+    * Resubmit from image_analysis
 ![](./images/Resubmission.png)
