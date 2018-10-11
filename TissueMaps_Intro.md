@@ -2,6 +2,7 @@
 title: 'TissueMAPS'
 subtitle: 'BIO325: Systems dynamics in cell and developmental biology'
 author: 'Joel Lüthi & Riccardo Murri'
+theme: s3it
 ---
 
 ## Administration

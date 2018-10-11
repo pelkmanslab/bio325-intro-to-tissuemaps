@@ -1,4 +1,4 @@
-pandoc \
+pandoc --verbose \
        -H ./utils/preamble.tex \
        -f markdown \
        ./TissueMaps_Intro.md \
