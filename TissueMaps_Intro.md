@@ -7,9 +7,18 @@ author: Riccardo Murri & Joel Lüthi
 ## Administration
 	* Divide into two groups for the course
 		* Group 1 goes to the Pelkmans Lab first
-		* Group 2 goes to the Brunner Lab first
+		* Group 2 goes to the Brunner Lab first:
+			* Group 2 is divided into sub-groups Fly & Yeast
 
-## What will we do today?
+## Learning Objectives
+
+	* At the end of the day, you will be able to:
+		1. Understand the use-case for TissueMaps
+		2. Use TissueMaps to process your image data
+		3. Process single cell measurements using python
+		4. Create plots of your data using python
+
+## What Will We Do Today?
 
 	*  9:20 - 10:00	Upload data to TissueMaps
 	                  & start processing it
@@ -22,68 +31,79 @@ author: Riccardo Murri & Joel Lüthi
 	* 15:15 - 16:00	Plotting data
 	* 16:00 - 16:30	Discussing plotting & wrap up
 
-## Learning Objectives
-
-	* At the end of the day, you will be able to:
-		1. Understand the use-case for TissueMaps
-		1. Use TissueMaps to process your image data
-		1. Process single cell measurements using python
-		1. Create plots of your data using python
-
-## Motivation
-	* CRISPR-knockouts, imaged with automated microscope
-	* Analyze the resulting images
+## Motivation for Doing Image Analysis
+![de Groot et al., 2018](./images/CRISPR_Paper.png)
 
 ## What is TissueMaps
+	* Cloud platform for image viewing & analysis
+	* Scalable & interactive
+	* Accessible by web browser
 
 ## Your Jupyter Notebook & TissueMaps Server
-	* TO BE DONE
+	* Get one sheet with instructions &
+	  passwords per 2 people
 
-## Creating a new Experiment in TissueMaps
+## Creating a New Experiment in TissueMaps
 ![](./images/TissueMaps_NewExperiment.png)
 
-## Name your Experiment
-![tmclient](./images/Experiment_naming.png)
+## Name Your Experiment
+![](./images/Experiment_naming.png)
 
 ## You Made a TissueMaps Experiment!
-![tmclient](./images/TM_Overview.png)
+![](./images/TM_Overview.png)
 
-## Modify your Experiment
-![tmclient](./images/Modify_experiment.png)
+## Modify Your Experiment
+![](./images/Modify_experiment.png)
 
 ## Create a Plate
-![tmclient](./images/CreateAPlate.png)
+![](./images/CreateAPlate.png)
 
 ## Create an Acquisition
-![tmclient](./images/CreateAnAcquisition.png)
+![](./images/CreateAnAcquisition.png)
 
 ## Getting Data into TissueMaps
-![tmclient](./images/Tm_client.png)
+![](./images/Tm_client.png)
 
-## Tell TmClient Who you are
-![tmclient](./images/TmClient_MicroscopeFile.png)
+## Tell TmClient Who You are
+![](./images/TmClient_MicroscopeFile.png)
 
-## Tell TmClient What you Want to Do
-![tmclient](./images/TmClient_Upload.png)
+## Tell TmClient What You Want to Do
+![](./images/TmClient_Upload.png)
 
-## Tell TmClient Where the images are
-![tmclient](./images/TmClient_UploadPath.png)
+## Tell TmClient Where the Images Are
+![](./images/TmClient_UploadPath.png)
 
 ## Upload Completed
-![tmclient](./images/Upload_Completed.png)
+![](./images/Upload_Completed.png)
 
-## Add Metadata about the experiment
-![tmclient](./images/Metadata.png)
+## Add Metadata about the Experiment
+![](./images/Metadata.png)
 
-## Define settings for the Pyramid / image browser
-![tmclient](./images/Pyramid_Settings.png)
+## Define settings for the Pyramid / Image Browser
+![](./images/Pyramid_Settings.png)
 
-## Submit the Pipeline & enjoy your break
-![tmclient](./images/SubmitWorkflow.png)
+## Submit the Pipeline & Enjoy Your Break
+![](./images/SubmitWorkflow.png)
 
-## The Image Viewer Gives you an Overview of your Experiment
-![tmViewer](./images/TM_Viewer.png)
+## The Image Viewer Gives You an Overview of Your Experiment
+![](./images/TM_Viewer.png)
 
+## Rename Your Channels
+* A01_C02: CellTrace
+* A01_C03: Yap
+* A02_C01: DAPI
+* A02_C04: Plasmid
+![](./images/RenamingChannels.png)
 
+## Go into the Image Processing Pipeline
+![](./images/EnterJterator.png)
 
-## Image processing in Jterator
+## A Good Pipeline for Today
+![](./images/GoodPipeline1.png)
+![](./images/GoodPipeline2.png)
+![](./images/GoodPipeline3.png)
+
+## Resubmission
+	* Batch Size 15
+	* Resubmit from image_analysis
+![](./images/Resubmission.png)
