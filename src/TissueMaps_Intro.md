@@ -52,7 +52,28 @@ At the end of the day, you will be able to:
 
 ## Your Jupyter Notebook & TissueMaps Server
 
-Get one sheet with instructions & passwords per 2 people
+Get one sheet with instructions & passwords per 2 people.
+
+
+## Connect to Jupyter Notebook
+
+    http://172.23.X.Y:2000/
+
+![](images/jupyter.png)
+
+
+## Start a terminal (to be used later)
+
+![](images/jupyter-start-terminal.png)
+
+
+## Connect to TissueMAPS
+
+    http://172.23.X.Y:1000/
+
+(Same address as Jupyter, but with `:1000` at the end.)
+
+![](images/tm-login-screen.png){ height=50% }
 
 
 ## Creating a New Experiment in TissueMaps
@@ -162,16 +183,16 @@ Get one sheet with instructions & passwords per 2 people
 
 ## What Will We Do Today?
 
-    *  9:20 - 10:00	Upload data to TissueMaps
-                      & start processing it
-    * 10:20 - 11:30	Image processing &
-                    cell segmentation in TissueMaps
-    * 12:30 - 13:15	Using machine learning & downloading data
-    * 13:30 - 14:00	Intro to Python
-    * 14:00 - 14:45	Data processing
-    * 14:45 - 15:00	Discussing data processing
-    * 15:15 - 16:00	Plotting data
-    * 16:00 - 16:30	Discussing plotting & wrap up
+*  9:20 - 10:00	Upload data to TissueMaps
+                  & start processing it
+* 10:20 - 11:30	Image processing &
+                cell segmentation in TissueMaps
+* 12:30 - 13:15	Using machine learning & downloading data
+* 13:30 - 14:00	Intro to Python
+* 14:00 - 14:45	Data processing
+* 14:45 - 15:00	Discussing data processing
+* 15:15 - 16:00	Plotting data
+* 16:00 - 16:30	Discussing plotting & wrap up
 
 
 ## Training a Classifier to Separate Transfected from Non-Transfected Cells
