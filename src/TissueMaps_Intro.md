@@ -187,5 +187,3 @@ Get one sheet with instructions & passwords per 2 people
 ## Download Results on Your Jupyter Machine
 
 ![](images/Download_Results.png)
-
-## Intro to Python
