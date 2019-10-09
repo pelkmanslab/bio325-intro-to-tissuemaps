@@ -1,7 +1,7 @@
 ---
 title: 'TissueMAPS'
 subtitle: 'BIO325: Systems dynamics in cell and developmental biology'
-author: 'Joel Lüthi & Riccardo Murri'
+author: 'Joel Lüthi, Riccardo Murri, Scott Berry'
 theme: s3it
 ---
 
@@ -10,8 +10,7 @@ theme: s3it
 Divide into two groups for the course:
 
 * Group 1 goes to the Pelkmans Lab first
-* Group 2 goes to the Brunner Lab first:
-  - Group 2 is further divided into sub-groups Fly & Yeast
+* Group 2 goes to the Brunner Lab first
 
 
 ## Learning Objectives
@@ -26,16 +25,16 @@ At the end of the day, you will be able to:
 
 ## What Will We Do Today?
 
-*  9:20 - 10:00	Upload data to TissueMaps
+*  9:20 - 10:00 Upload data to TissueMaps
                   & start processing it
-* 10:20 - 11:30	Image processing &
+* 10:20 - 11:30 Image processing &
                 cell segmentation in TissueMaps
-* 12:30 - 13:15	Using machine learning & downloading data
-* 13:15 - 13:45	Intro to Python
-* 14:00 - 14:45	Data processing
-* 14:45 - 15:00	Discussing data processing
-* 15:15 - 16:00	Plotting data
-* 16:00 - 16:30	Discussing plotting & wrap up
+* 12:30 - 13:15 Using machine learning & downloading data
+* 13:15 - 13:45 Intro to Python
+* 14:00 - 14:45 Data processing
+* 14:45 - 15:00 Discussing data processing
+* 15:15 - 16:00 Plotting data
+* 16:00 - 16:30 Discussing plotting & wrap up
 
 
 ## Motivation for Doing Image Analysis
@@ -183,16 +182,16 @@ Get one sheet with instructions & passwords per 2 people.
 
 ## What Will We Do Today?
 
-*  9:20 - 10:00	Upload data to TissueMaps
+*  9:20 - 10:00 Upload data to TissueMaps
                   & start processing it
-* 10:20 - 11:30	Image processing &
+* 10:20 - 11:30 Image processing &
                 cell segmentation in TissueMaps
-* 12:30 - 13:15	Using machine learning & downloading data
-* 13:30 - 14:00	Intro to Python
-* 14:00 - 14:45	Data processing
-* 14:45 - 15:00	Discussing data processing
-* 15:15 - 16:00	Plotting data
-* 16:00 - 16:30	Discussing plotting & wrap up
+* 12:30 - 13:15 Using machine learning & downloading data
+* 13:30 - 14:00 Intro to Python
+* 14:00 - 14:45 Data processing
+* 14:45 - 15:00 Discussing data processing
+* 15:15 - 16:00 Plotting data
+* 16:00 - 16:30 Discussing plotting & wrap up
 
 
 ## Training a Classifier to Separate Transfected from Non-Transfected Cells
